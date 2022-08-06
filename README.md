@@ -16,10 +16,6 @@
 
 ## ✨ [Demo](https://)
 
-## Screenshot
-
-![./screenshot.png](./screenshot.png)
-
 ### Connect to MetaMask
 
 ![https://gyazo.com/6b8f75171de1fab24de552ff7930f4b8.gif](https://gyazo.com/6b8f75171de1fab24de552ff7930f4b8.gif)
