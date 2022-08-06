@@ -1,0 +1,25 @@
+{
+  "projectName": "dapp-starter",
+  "projectOwner": "iv7dev",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "iv7dev",
+      "name": "Ivan Salomon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/870029?v=4",
+      "profile": "https://blockalchemists.com/",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
