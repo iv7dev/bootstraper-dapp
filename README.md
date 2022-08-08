@@ -120,8 +120,10 @@ npx hardhat run --network localhost scripts/upgrade_box.ts
 
 👤 **Iv7dev**
 
-- Website: https://blockalchemists.com/
+- Website: [Block Alchemists](https://blockalchemists.com)
+- Website: [STACKEUM](https://stackeum.xyz)
 - Twitter: [@iv7dev](https://twitter.com/iv7dev)
+- Twitter 2: [@iv7dev](https://twitter.com/ivansalomon)
 - Github: [@iv7dev](https://github.com/iv7dev)
 
 
